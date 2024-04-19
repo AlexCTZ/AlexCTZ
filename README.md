@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexCTZ
 - 👀 I’m interested in studying IT
-- 🌱 I’m currently learning POO
-- 💞️ I’m looking to collaborate on web page devellopment
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on web page development
 - 📫 How to reach me alex.caratza@gmail.com
 
 <!---
