@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying IT
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to work in cybersecurity
-- 📫 How to reach me alex.caratza@gmail.com
+- 📫 How to reach me alex.caratza@gmail.com, pro : alexandre.caratza@viacesi.fr
 
 <!---
 AlexCTZ/AlexCTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
